@@ -6,7 +6,12 @@ module.exports={
 }
 //在new1上的更改
 aaaaaaaaaaaaaaaaaa
+<<<<<<< HEAD
 //在主支
 bbbbbbbbbbb
 //在主支
 ffffffffffffff
+=======
+//继续更改
+bbbbbbbbbbbbbbjjjjjjjjjjjj
+>>>>>>> new1
